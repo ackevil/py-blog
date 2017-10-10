@@ -1,0 +1,4 @@
+PyMySQL==0.7.11
+sqlacodegen==1.1.6
+SQLAlchemy==1.1.11
+tornado==4.5.1
